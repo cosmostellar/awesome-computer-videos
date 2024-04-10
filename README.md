@@ -55,6 +55,15 @@
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
 
+## Game Development
+
+### Game Engines
+
+#### Godot
+- [Coco Code: Start Your Game Creation Journey Today! (Godot beginner tutorial)](youtu.be/5V9f3MT86M8)
+- [Coco Code: LEVEL UP Your Game Design Toolkit (Godot for Beginners)](youtu.be/zL__a0Ei6Vs)
+
+
 ## Tech in General
 - [Theo: The Reality Of Betting On New Technologies](https://youtu.be/amGEHuXYLKQ)
 - [Eric Murphy: Can You REALLY Trust Proton Mail?](https://youtu.be/ljFAODAfAC8)
@@ -63,15 +72,6 @@
 - [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
 - [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
 - [Eric Murphy: Why does every personal website look like this now?](youtu.be/_x6SCSz7g5I)
-
-
-## Game Development
-
-### Game Engines
-
-#### Godot
-- [Coco Code: Start Your Game Creation Journey Today! (Godot beginner tutorial)](youtu.be/5V9f3MT86M8)
-- [Coco Code: LEVEL UP Your Game Design Toolkit (Godot for Beginners)](youtu.be/zL__a0Ei6Vs)
 
 
 ## Etc
