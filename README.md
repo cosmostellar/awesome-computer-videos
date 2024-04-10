@@ -1,20 +1,5 @@
 # awesome-computer-videos
 
-## Code Style
-- [CodeAesthetic: Don't Write Comments](https://youtu.be/Bf7vDBBOBUA)
-- [Eric Murphy: Why I Stopped Using Prettier](youtu.be/DQUkYHQ4aUA)
-
-
-## Cybersecurity
-- [NetworkChuck: SQL Injections are scary!!](https://youtu.be/2OPVViV-GQk)
-- [Nathan Baggs: Unfixable Apple Exploit - How It Really Works](https://youtu.be/wpDXpmOxR1Y)
-
-
-## DevOps
-- [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
-- [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
-
-
 ## Programming Languages
 - [C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
 - [freeCodeCamp: Swift Programming Tutorial](youtu.be/8Xg7E9shq0U)
@@ -30,11 +15,9 @@
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 
 
-## Compilers & Interpreters
-- [ThePrimeTime: Flappy Bird in TypeScript Types](https://youtu.be/7VctnNVXe2A)
-- [Low Level Learning: do you know how "return" works under the hood? (are you SURE?)](https://youtu.be/e46wHUjNDjE)
-- [Nathan Baggs: BestJS 1.0 is here](https://youtu.be/-GwT08wwnbw?si=jQDuC57lZMFKuN8Z)
-	- A semi-satirical look at what it takes to make a semi-decent js runtime.
+## Code Style
+- [CodeAesthetic: Don't Write Comments](https://youtu.be/Bf7vDBBOBUA)
+- [Eric Murphy: Why I Stopped Using Prettier](youtu.be/DQUkYHQ4aUA)
 
 
 ## Web & Application Frontend
@@ -43,8 +26,35 @@
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
 
 
+## DevOps
+- [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
+- [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
+
+
 ## Networking
 - [freeCodeCamp: How does the internet work?](http://youtu.be/zN8YNNHcaZc)
+
+
+## Compilers & Interpreters
+- [ThePrimeTime: Flappy Bird in TypeScript Types](https://youtu.be/7VctnNVXe2A)
+- [Low Level Learning: do you know how "return" works under the hood? (are you SURE?)](https://youtu.be/e46wHUjNDjE)
+- [Nathan Baggs: BestJS 1.0 is here](https://youtu.be/-GwT08wwnbw?si=jQDuC57lZMFKuN8Z)
+	- A semi-satirical look at what it takes to make a semi-decent js runtime.
+
+
+## Cybersecurity
+- [NetworkChuck: SQL Injections are scary!!](https://youtu.be/2OPVViV-GQk)
+- [Nathan Baggs: Unfixable Apple Exploit - How It Really Works](https://youtu.be/wpDXpmOxR1Y)
+
+
+## Tech in General
+- [Theo: The Reality Of Betting On New Technologies](https://youtu.be/amGEHuXYLKQ)
+- [Eric Murphy: Can You REALLY Trust Proton Mail?](https://youtu.be/ljFAODAfAC8)
+- [RustConf 2023: Rust Foundation: Demystified](youtu.be/Ba0POpa7wD0)
+- [aaltouniversityace: Aalto Talk with Linus Torvalds [Full-length]](https://youtu.be/MShbP3OpASA)
+- [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
+- [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
+- [Eric Murphy: Why does every personal website look like this now?](youtu.be/_x6SCSz7g5I)
 
 
 ## Operating System
@@ -64,16 +74,6 @@
 #### Godot
 - [Coco Code: Start Your Game Creation Journey Today! (Godot beginner tutorial)](youtu.be/5V9f3MT86M8)
 - [Coco Code: LEVEL UP Your Game Design Toolkit (Godot for Beginners)](youtu.be/zL__a0Ei6Vs)
-
-
-## Tech in General
-- [Theo: The Reality Of Betting On New Technologies](https://youtu.be/amGEHuXYLKQ)
-- [Eric Murphy: Can You REALLY Trust Proton Mail?](https://youtu.be/ljFAODAfAC8)
-- [RustConf 2023: Rust Foundation: Demystified](youtu.be/Ba0POpa7wD0)
-- [aaltouniversityace: Aalto Talk with Linus Torvalds [Full-length]](https://youtu.be/MShbP3OpASA)
-- [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
-- [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
-- [Eric Murphy: Why does every personal website look like this now?](youtu.be/_x6SCSz7g5I)
 
 
 ## Etc
