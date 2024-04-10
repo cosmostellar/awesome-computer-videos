@@ -20,7 +20,7 @@
 - [Eric Murphy: Why I Stopped Using Prettier](youtu.be/DQUkYHQ4aUA)
 
 
-## Web & Application Frontend
+## Web & Application
 - [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk?si=e6j3Tl6FwJpUTOaR)
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
