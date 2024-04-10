@@ -31,10 +31,10 @@
 
 
 ## Compilers & Interpreters
+- [ThePrimeTime: Flappy Bird in TypeScript Types](https://youtu.be/7VctnNVXe2A)
+- [Low Level Learning: do you know how "return" works under the hood? (are you SURE?)](https://youtu.be/e46wHUjNDjE)
 - [Nathan Baggs: BestJS 1.0 is here](https://youtu.be/-GwT08wwnbw?si=jQDuC57lZMFKuN8Z)
 	- A semi-satirical look at what it takes to make a semi-decent js runtime.
-- [Low Level Learning: do you know how "return" works under the hood? (are you SURE?)](https://youtu.be/e46wHUjNDjE)
-- [ThePrimeTime: Flappy Bird in TypeScript Types](https://youtu.be/7VctnNVXe2A)
 
 
 ## Web & Application Frontend
@@ -48,6 +48,8 @@
 
 
 ## Operating System
+
+### UNIX
 - [ArrynDoesTech: How to write a unix shell in rust](http://youtu.be/EZnp9SR66Zw)
 
 
