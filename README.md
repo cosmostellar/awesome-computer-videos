@@ -1,7 +1,7 @@
 # awesome-computer-videos
 
 ## Programming Languages
-- [C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
+- [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
 - [freeCodeCamp: Swift Programming Tutorial](youtu.be/8Xg7E9shq0U)
 - [Low Level Learning: C is 50 Years Old. Should You Learn Rust?](https://youtu.be/NtYHC1KNGoc)
 
