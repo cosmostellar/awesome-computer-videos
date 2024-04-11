@@ -45,6 +45,7 @@
 ## Cybersecurity
 - [NetworkChuck: SQL Injections are scary!!](https://youtu.be/2OPVViV-GQk)
 - [Nathan Baggs: Unfixable Apple Exploit - How It Really Works](https://youtu.be/wpDXpmOxR1Y)
+- [secret backdoor found in open source software (xz situation breakdown)](https://youtu.be/jqjtNDtbDNI)
 
 
 ## Tech in General
