@@ -64,6 +64,10 @@
 - [ArrynDoesTech: How to write a unix shell in rust](http://youtu.be/EZnp9SR66Zw)
 
 
+### Windows
+- [What Does The Windows REFRESH Button Really Do?](https://youtu.be/TVmLDiXtfIw)
+
+
 ## Data Structures and Algorithm
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
