@@ -77,8 +77,8 @@
 ### Game Engines
 
 #### Godot
-- [Coco Code: Start Your Game Creation Journey Today! (Godot beginner tutorial)](youtu.be/5V9f3MT86M8)
-- [Coco Code: LEVEL UP Your Game Design Toolkit (Godot for Beginners)](youtu.be/zL__a0Ei6Vs)
+- [Coco Code: Start Your Game Creation Journey Today! (Godot beginner tutorial)](https://youtu.be/5V9f3MT86M8)
+- [Coco Code: LEVEL UP Your Game Design Toolkit (Godot for Beginners)](https://youtu.be/zL__a0Ei6Vs)
 
 
 ## Etc
