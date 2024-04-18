@@ -66,6 +66,7 @@
 
 ### Windows
 - [CHM Tech: What Does The Windows REFRESH Button Really Do?](https://youtu.be/TVmLDiXtfIw)
+- [Inkbox: What's inside a .EXE File?](https://youtu.be/-ojciptvVtY)
 
 
 ## Data Structures and Algorithm
@@ -79,7 +80,3 @@
 #### Godot
 - [Coco Code: Start Your Game Creation Journey Today! (Godot beginner tutorial)](https://youtu.be/5V9f3MT86M8)
 - [Coco Code: LEVEL UP Your Game Design Toolkit (Godot for Beginners)](https://youtu.be/zL__a0Ei6Vs)
-
-
-## Etc
-- [Inkbox: What's inside a .EXE File?](https://youtu.be/-ojciptvVtY)
