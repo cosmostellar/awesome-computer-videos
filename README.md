@@ -4,6 +4,7 @@
 - [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
 - [freeCodeCamp: Swift Programming Tutorial](youtu.be/8Xg7E9shq0U)
 - [Low Level Learning: C is 50 Years Old. Should You Learn Rust?](https://youtu.be/NtYHC1KNGoc)
+- [FireShip: God-Tier Developer Roadmap](https://youtu.be/pEfrdAtAmqk)
 
 ### Rust
 - [Low Level Learning: why rust libraries may never exist.](https://youtu.be/769VqNup21Q)
@@ -24,11 +25,18 @@
 - [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk?si=e6j3Tl6FwJpUTOaR)
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
+- [Eric Murphy: Why does every personal website look like this now?](youtu.be/_x6SCSz7g5I)
 
 
-## DevOps
+## Infrastructures
+
+### DevOps
 - [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
 - [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
+
+
+### Etc
+- [Techquickie: What are Mainframes?](https://youtu.be/ximv-PwAKnc)
 
 
 ## Networking
@@ -55,7 +63,6 @@
 - [aaltouniversityace: Aalto Talk with Linus Torvalds [Full-length]](https://youtu.be/MShbP3OpASA)
 - [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
 - [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
-- [Eric Murphy: Why does every personal website look like this now?](youtu.be/_x6SCSz7g5I)
 
 
 ## Operating System
@@ -65,8 +72,8 @@
 
 
 ### Windows
-- [CHM Tech: What Does The Windows REFRESH Button Really Do?](https://youtu.be/TVmLDiXtfIw)
 - [Inkbox: What's inside a .EXE File?](https://youtu.be/-ojciptvVtY)
+- [CHM Tech: What Does The Windows REFRESH Button Really Do?](https://youtu.be/TVmLDiXtfIw)
 
 
 ## Data Structures and Algorithm
@@ -80,3 +87,13 @@
 #### Godot
 - [Coco Code: Start Your Game Creation Journey Today! (Godot beginner tutorial)](https://youtu.be/5V9f3MT86M8)
 - [Coco Code: LEVEL UP Your Game Design Toolkit (Godot for Beginners)](https://youtu.be/zL__a0Ei6Vs)
+
+
+## User Interface/Experience
+- [Apple WWDC2018: Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/)
+
+
+## Etc
+- [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
+- [The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
+- [Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
