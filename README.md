@@ -95,5 +95,5 @@
 
 ## Etc
 - [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
-- [The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
-- [Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
+- [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
+- [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
