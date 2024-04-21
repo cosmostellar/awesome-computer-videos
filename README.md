@@ -16,6 +16,10 @@
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 
 
+### C
+- [Explaining Pointers Until I Go Insane](https://youtu.be/qclZUQYZTzg)
+
+
 ## Code Style
 - [CodeAesthetic: Don't Write Comments](https://youtu.be/Bf7vDBBOBUA)
 - [Eric Murphy: Why I Stopped Using Prettier](youtu.be/DQUkYHQ4aUA)
