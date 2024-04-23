@@ -73,6 +73,7 @@
 
 ### UNIX
 - [ArrynDoesTech: How to write a unix shell in rust](http://youtu.be/EZnp9SR66Zw)
+- [Engineer Man: Understanding Fork Bombs in 5 Minutes or Less](https://youtu.be/RhtjGp7oMvE)
 
 
 ### Windows
@@ -101,3 +102,4 @@
 - [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
 - [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
+- [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
