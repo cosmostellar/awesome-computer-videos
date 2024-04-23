@@ -75,6 +75,7 @@
 ### UNIX
 - [ArrynDoesTech: How to write a unix shell in rust](http://youtu.be/EZnp9SR66Zw)
 - [Engineer Man: Understanding Fork Bombs in 5 Minutes or Less](https://youtu.be/RhtjGp7oMvE)
+- [Low Level Learning: these characters will crash your computer](https://youtu.be/xqo3xtkfuic)
 
 
 ### Windows
