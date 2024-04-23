@@ -2,7 +2,7 @@
 
 ## Programming Languages
 - [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
-- [freeCodeCamp: Swift Programming Tutorial](youtu.be/8Xg7E9shq0U)
+- [freeCodeCamp: Swift Programming Tutorial](https://youtu.be/8Xg7E9shq0U)
 - [Low Level Learning: C is 50 Years Old. Should You Learn Rust?](https://youtu.be/NtYHC1KNGoc)
 - [FireShip: God-Tier Developer Roadmap](https://youtu.be/pEfrdAtAmqk)
 
@@ -11,7 +11,7 @@
 
 #### RustConf 2023
 - [RustConf 2023: How Powerful is Const](https://youtu.be/zXCr1BH5Y-4)
-- [RustConf 2023: The Art and Science of Teaching Rust](youtu.be/x5EbGrgmXKw)
+- [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 - [RustConf 2023: Using Rust and Battlesnake to never stop learning](https://youtu.be/-I1BfSpoWM0)
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 
@@ -30,7 +30,7 @@
 
 ## Code Style
 - [CodeAesthetic: Don't Write Comments](https://youtu.be/Bf7vDBBOBUA)
-- [Eric Murphy: Why I Stopped Using Prettier](youtu.be/DQUkYHQ4aUA)
+- [Eric Murphy: Why I Stopped Using Prettier](https://youtu.be/DQUkYHQ4aUA)
 - [Dreams of Code: Never write another loop again (maybe)](https://youtu.be/sGjAe6y299g)
 
 
@@ -38,7 +38,7 @@
 - [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk)
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
-- [Eric Murphy: Why does every personal website look like this now?](youtu.be/_x6SCSz7g5I)
+- [Eric Murphy: Why does every personal website look like this now?](https://youtu.be/_x6SCSz7g5I)
 
 
 ## Infrastructures
@@ -72,7 +72,7 @@
 ## Tech in General
 - [Theo: The Reality Of Betting On New Technologies](https://youtu.be/amGEHuXYLKQ)
 - [Eric Murphy: Can You REALLY Trust Proton Mail?](https://youtu.be/ljFAODAfAC8)
-- [RustConf 2023: Rust Foundation: Demystified](youtu.be/Ba0POpa7wD0)
+- [RustConf 2023: Rust Foundation: Demystified](https://youtu.be/Ba0POpa7wD0)
 - [aaltouniversityace: Aalto Talk with Linus Torvalds [Full-length]](https://youtu.be/MShbP3OpASA)
 - [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
 - [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
