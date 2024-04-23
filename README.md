@@ -17,10 +17,10 @@
 
 
 ### JavaScript
+- [Matt Pocock: "Import vs Require: The Biggest JavaScript Divide"](https://youtu.be/6_JNPmjSevo)
 
 #### TypeScript
 - [Matt Pocock: Enums considered harmful](https://youtu.be/jjMbPt_H3RQ)
-- [Matt Pocock: "Import vs Require: The Biggest JavaScript Divide"](https://youtu.be/6_JNPmjSevo)
 - [Matt Pocock: Should you use return types?](https://youtu.be/nwSe95uFN8E)
 
 
