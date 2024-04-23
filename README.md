@@ -23,6 +23,7 @@
 ## Code Style
 - [CodeAesthetic: Don't Write Comments](https://youtu.be/Bf7vDBBOBUA)
 - [Eric Murphy: Why I Stopped Using Prettier](youtu.be/DQUkYHQ4aUA)
+- [Dreams of Code: Never write another loop again (maybe)](https://youtu.be/sGjAe6y299g)
 
 
 ## Web & Application
