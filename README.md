@@ -27,7 +27,7 @@
 
 
 ## Web & Application
-- [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk?si=e6j3Tl6FwJpUTOaR)
+- [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk)
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
 - [Eric Murphy: Why does every personal website look like this now?](youtu.be/_x6SCSz7g5I)
@@ -51,7 +51,7 @@
 ## Compilers & Interpreters
 - [ThePrimeTime: Flappy Bird in TypeScript Types](https://youtu.be/7VctnNVXe2A)
 - [Low Level Learning: do you know how "return" works under the hood? (are you SURE?)](https://youtu.be/e46wHUjNDjE)
-- [Nathan Baggs: BestJS 1.0 is here](https://youtu.be/-GwT08wwnbw?si=jQDuC57lZMFKuN8Z)
+- [Nathan Baggs: BestJS 1.0 is here](https://youtu.be/-GwT08wwnbw)
 	- A semi-satirical look at what it takes to make a semi-decent js runtime.
 
 
