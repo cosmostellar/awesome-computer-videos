@@ -16,6 +16,14 @@
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 
 
+### JavaScript
+
+#### TypeScript
+- [Matt Pocock: Enums considered harmful](https://youtu.be/jjMbPt_H3RQ)
+- [Matt Pocock: "Import vs Require: The Biggest JavaScript Divide"](https://youtu.be/6_JNPmjSevo)
+- [Matt Pocock: Should you use return types?](https://youtu.be/nwSe95uFN8E)
+
+
 ### C
 - [Mults: Explaining Pointers Until I Go Insane](https://youtu.be/qclZUQYZTzg)
 
