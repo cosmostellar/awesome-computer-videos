@@ -97,6 +97,8 @@
 
 ## User Interface/Experience
 - [Apple WWDC2018: Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/)
+- [Juxtopposed: I Redesigned the ENTIRE Steam UI from Scratch](https://youtu.be/cDY2p1CTkPo)
+- [Juxtopposed: When Animators Become Web Designers](https://youtu.be/_8Zs_cVJAx4)
 
 
 ## Etc
