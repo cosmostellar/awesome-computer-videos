@@ -76,6 +76,8 @@
 - [aaltouniversityace: Aalto Talk with Linus Torvalds [Full-length]](https://youtu.be/MShbP3OpASA)
 - [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
 - [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
+- [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
+- [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
 
 
 ## Operating System
@@ -91,7 +93,10 @@
 - [CHM Tech: What Does The Windows REFRESH Button Really Do?](https://youtu.be/TVmLDiXtfIw)
 
 
-## Data Structures and Algorithm
+## Computer Science
+- [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
+
+### Data Structures and Algorithm
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
 
@@ -112,10 +117,7 @@
 
 
 ## Etc
-- [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
-- [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
-- [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
 - [SalC1: The Story of MinecraftForFree.com](https://youtu.be/BKNx7chzuJ4)
 - [SalC1: How the Minecraft Title Screen Seed was Found](https://youtu.be/GaRurhiK-Lk)
 - [SalC1: Pack.PNG has been FOUND! - Here's how they did it.](https://youtu.be/ea6py9q46QU)
