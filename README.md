@@ -96,7 +96,7 @@
 ## Computer Science
 - [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
 
-### Data Structures and Algorithm
+### Data Structures and Algorithms
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 
 
