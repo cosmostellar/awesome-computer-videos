@@ -116,3 +116,6 @@
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
 - [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
 - [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
+- [SalC1: The Story of MinecraftForFree.com](https://youtu.be/BKNx7chzuJ4)
+- [SalC1: How the Minecraft Title Screen Seed was Found](https://youtu.be/GaRurhiK-Lk)
+- [SalC1: Pack.PNG has been FOUND! - Here's how they did it.](https://youtu.be/ea6py9q46QU)
