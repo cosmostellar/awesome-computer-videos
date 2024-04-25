@@ -99,6 +99,7 @@
 
 ## Computer Science
 - [Fireship: Binary Explained in 01100100 Seconds](https://youtu.be/zDNaUi2cjv4)
+- [Max's Tech - Read and Write in Hexadecimal, The Easy Way!](https://youtu.be/bt4zavZCrLg)
 
 ### Data Structures and Algorithms
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
