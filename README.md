@@ -28,6 +28,10 @@
 - [Mults: Explaining Pointers Until I Go Insane](https://youtu.be/qclZUQYZTzg)
 
 
+### Go
+- [Melkey: "Go Concurrency Explained: Go Routines & Channels"](https://youtu.be/B9uR2gLM80E)
+
+
 ## Code Style
 - [CodeAesthetic: Don't Write Comments](https://youtu.be/Bf7vDBBOBUA)
 - [Eric Murphy: Why I Stopped Using Prettier](https://youtu.be/DQUkYHQ4aUA)
