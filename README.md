@@ -83,6 +83,8 @@
 - [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
 - [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
 - [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
+- [Alex Ziskind: Stack Overflow Survey 2023](https://youtu.be/403U_EQ6Jiw)
+- [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
 
 
 ## Operating System
