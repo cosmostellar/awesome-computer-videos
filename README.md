@@ -65,6 +65,7 @@
 - [Low Level Learning: do you know how "return" works under the hood? (are you SURE?)](https://youtu.be/e46wHUjNDjE)
 - [Nathan Baggs: BestJS 1.0 is here](https://youtu.be/-GwT08wwnbw)
 	- A semi-satirical look at what it takes to make a semi-decent js runtime.
+- [Tsoding Daily: What is a Lexer (No BS explanation)](https://youtu.be/BI3K-ME3L74)
 
 
 ## Cybersecurity
@@ -103,6 +104,7 @@
 
 ### Data Structures and Algorithms
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [Tren Black: Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU)
 
 
 ## Game Development
@@ -127,3 +129,4 @@
 - [SalC1: The Story of MinecraftForFree.com](https://youtu.be/BKNx7chzuJ4)
 - [SalC1: How the Minecraft Title Screen Seed was Found](https://youtu.be/GaRurhiK-Lk)
 - [SalC1: Pack.PNG has been FOUND! - Here's how they did it.](https://youtu.be/ea6py9q46QU)
+- [Jonathan Blow Clips: Jonathan Blow on Problem Solving](https://youtu.be/6gakofGPZ6Q)
