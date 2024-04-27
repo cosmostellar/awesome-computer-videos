@@ -43,6 +43,7 @@
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
 - [Eric Murphy: Why does every personal website look like this now?](https://youtu.be/_x6SCSz7g5I)
+- [Eric Murphy: How Google's Chromium Took Over the Browser World](https://youtu.be/7u7ek8QyWPI)
 
 
 ## Infrastructures
@@ -124,6 +125,7 @@
 - [Juxtopposed: When Animators Become Web Designers](https://youtu.be/_8Zs_cVJAx4)
 - [Juxtopposed: I Redesigned Wikipedia JUST to MAKE IT MONEY](https://youtu.be/Bzj7u4Q5GG0)
 	- Reference for More Context: [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
+- [jerry woo hu: Apple Design Part 2: Beyond Flat](https://youtu.be/8XjuE-2k1z8)
 
 
 ## Etc
