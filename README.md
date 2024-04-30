@@ -42,13 +42,18 @@
 - [Dreams of Code: Never write another loop again (maybe)](https://youtu.be/sGjAe6y299g)
 
 
-## Web & Application
+## Web
 - [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk)
-- [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
-- [Eric Murphy: Why does every personal website look like this now?](https://youtu.be/_x6SCSz7g5I)
 - [Eric Murphy: How Google's Chromium Took Over the Browser World](https://youtu.be/7u7ek8QyWPI)
+- [Eric Murphy: Why does every personal website look like this now?](https://youtu.be/_x6SCSz7g5I)
 - [Theo: Pretty much every website uses the wrong font size…](https://youtu.be/rg3zgQ3xBRc)
+  - [Reference: The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
+  - [Reference: Complete Reference of All the Styles Applied by Tailwind Preflight](https://unpkg.com/tailwindcss@3.4.3/src/css/preflight.css)
+
+
+## Mobile Applications
+- [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 
 
 ## Infrastructures
