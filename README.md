@@ -16,6 +16,10 @@
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 
 
+### Zig
+- [Low Level Learning: i changed my mind about this language](https://youtu.be/pnnx1bkFXng)
+
+
 ### JavaScript
 - [Matt Pocock: "Import vs Require: The Biggest JavaScript Divide"](https://youtu.be/6_JNPmjSevo)
 
@@ -30,10 +34,6 @@
 
 ### Go
 - [Melkey: "Go Concurrency Explained: Go Routines & Channels"](https://youtu.be/B9uR2gLM80E)
-
-
-### Zig
-- [Low Level Learning: i changed my mind about this language](https://youtu.be/pnnx1bkFXng)
 
 
 ## Code Style
@@ -85,19 +85,6 @@
 - [Low Level Learning: secret backdoor found in open source software (xz situation breakdown)](https://youtu.be/jqjtNDtbDNI)
 
 
-## Tech in General
-- [Theo: The Reality Of Betting On New Technologies](https://youtu.be/amGEHuXYLKQ)
-- [Eric Murphy: Can You REALLY Trust Proton Mail?](https://youtu.be/ljFAODAfAC8)
-- [RustConf 2023: Rust Foundation: Demystified](https://youtu.be/Ba0POpa7wD0)
-- [aaltouniversityace: Aalto Talk with Linus Torvalds [Full-length]](https://youtu.be/MShbP3OpASA)
-- [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
-- [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
-- [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
-- [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
-- [Alex Ziskind: Stack Overflow Survey 2023](https://youtu.be/403U_EQ6Jiw)
-- [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
-
-
 ## Operating System
 
 ### UNIX
@@ -118,6 +105,19 @@
 ### Data Structures and Algorithms
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 - [Tren Black: Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU)
+
+
+## Tech in General
+- [Theo: The Reality Of Betting On New Technologies](https://youtu.be/amGEHuXYLKQ)
+- [Eric Murphy: Can You REALLY Trust Proton Mail?](https://youtu.be/ljFAODAfAC8)
+- [RustConf 2023: Rust Foundation: Demystified](https://youtu.be/Ba0POpa7wD0)
+- [aaltouniversityace: Aalto Talk with Linus Torvalds [Full-length]](https://youtu.be/MShbP3OpASA)
+- [Theo: Fine, I'll talk about frontend versus backend](https://youtu.be/K2ueKlQ2zpk)
+- [NeetCodeIO: What I Hated about working at Google](https://youtu.be/H3loXVm46f0)
+- [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
+- [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
+- [Alex Ziskind: Stack Overflow Survey 2023](https://youtu.be/403U_EQ6Jiw)
+- [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
 
 
 ## Game Development
