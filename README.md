@@ -57,6 +57,7 @@
 
 
 ## Infrastructures
+- [Tom Delalande: The cloud is over-engineered and overpriced (no music)](https://youtu.be/jFrGhodqC08)
 
 ### DevOps
 - [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
