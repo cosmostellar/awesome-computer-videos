@@ -119,6 +119,7 @@
 - [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
 - [Alex Ziskind: Stack Overflow Survey 2023](https://youtu.be/403U_EQ6Jiw)
 - [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
+- [Jeff Geerling: Corporate Open Source is Dead](https://youtu.be/hNcBk6cwim8)
 
 
 ## Game Development
