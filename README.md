@@ -52,6 +52,9 @@
   - [Reference: The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
   - [Reference: Complete Reference of All the Styles Applied by Tailwind Preflight](https://unpkg.com/tailwindcss@3.4.3/src/css/preflight.css)
 - [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk)
+- [Eric Murphy: Why I Stopped Using Sass](https://youtu.be/83F7PrfX5qw)
+- [Eric Murphy: Do We STILL Need to Use Vendor Prefixes in CSS?](https://youtu.be/ZbTz_XKDtuE)
+  - Reference: [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 
 
 ### Backend
@@ -142,7 +145,7 @@
 - [Juxtopposed: I Redesigned the ENTIRE Steam UI from Scratch](https://youtu.be/cDY2p1CTkPo)
 - [Juxtopposed: When Animators Become Web Designers](https://youtu.be/_8Zs_cVJAx4)
 - [Juxtopposed: I Redesigned Wikipedia JUST to MAKE IT MONEY](https://youtu.be/Bzj7u4Q5GG0)
-	- Reference for More Context: [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
+	- Reference: [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
 - [jerry woo hu: "Apple Design Part 1: Skeuomorphism"](https://youtu.be/jG2iaU-JVhI)
 - [jerry woo hu: "Apple Design Part 2: Beyond Flat"](https://youtu.be/8XjuE-2k1z8)
 
