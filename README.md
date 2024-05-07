@@ -1,10 +1,8 @@
 # awesome-computer-videos
 
 ## Programming Languages
-- [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
-- [freeCodeCamp: Swift Programming Tutorial](https://youtu.be/8Xg7E9shq0U)
-- [Low Level Learning: C is 50 Years Old. Should You Learn Rust?](https://youtu.be/NtYHC1KNGoc)
 - [FireShip: God-Tier Developer Roadmap](https://youtu.be/pEfrdAtAmqk)
+- [Low Level Learning: C is 50 Years Old. Should You Learn Rust?](https://youtu.be/NtYHC1KNGoc)
 
 ### Rust
 - [Low Level Learning: why rust libraries may never exist.](https://youtu.be/769VqNup21Q)
@@ -16,8 +14,8 @@
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
 
 
-### Zig
-- [Low Level Learning: i changed my mind about this language](https://youtu.be/pnnx1bkFXng)
+### Go
+- [Melkey: "Go Concurrency Explained: Go Routines & Channels"](https://youtu.be/B9uR2gLM80E)
 
 
 ### JavaScript
@@ -28,12 +26,20 @@
 - [Matt Pocock: Should you use return types?](https://youtu.be/nwSe95uFN8E)
 
 
+### Swift
+- [freeCodeCamp: Swift Programming Tutorial](https://youtu.be/8Xg7E9shq0U)
+
+
 ### C
 - [Mults: Explaining Pointers Until I Go Insane](https://youtu.be/qclZUQYZTzg)
 
 
-### Go
-- [Melkey: "Go Concurrency Explained: Go Routines & Channels"](https://youtu.be/B9uR2gLM80E)
+### C++
+- [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
+
+
+### Zig
+- [Low Level Learning: i changed my mind about this language](https://youtu.be/pnnx1bkFXng)
 
 
 ## Code Style
@@ -49,12 +55,12 @@
 - [Eric Murphy: How Google's Chromium Took Over the Browser World](https://youtu.be/7u7ek8QyWPI)
 - [Eric Murphy: Why does every personal website look like this now?](https://youtu.be/_x6SCSz7g5I)
 - [Theo: Pretty much every website uses the wrong font size…](https://youtu.be/rg3zgQ3xBRc)
-  - [Reference: The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
-  - [Reference: Complete Reference of All the Styles Applied by Tailwind Preflight](https://unpkg.com/tailwindcss@3.4.3/src/css/preflight.css)
+	- [Reference: The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
+	- [Reference: Complete Reference of All the Styles Applied by Tailwind Preflight](https://unpkg.com/tailwindcss@3.4.3/src/css/preflight.css)
 - [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk)
 - [Eric Murphy: Why I Stopped Using Sass](https://youtu.be/83F7PrfX5qw)
 - [Eric Murphy: Do We STILL Need to Use Vendor Prefixes in CSS?](https://youtu.be/ZbTz_XKDtuE)
-  - Reference: [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+	- Reference: [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 
 
 ### Backend
@@ -65,7 +71,7 @@
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
 
 
-## Infrastructures
+## Infrastructure
 - [Tom Delalande: The cloud is over-engineered and overpriced (no music)](https://youtu.be/jFrGhodqC08)
 
 ### DevOps
