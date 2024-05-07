@@ -71,6 +71,7 @@
 ### DevOps
 - [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
 - [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
+- [ThePrimeTime: Private EMPTY S3 Bucket COST ME $1300](https://youtu.be/OWggTcVgiNg)
 
 
 ### Etc
