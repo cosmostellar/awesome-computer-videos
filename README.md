@@ -163,3 +163,4 @@
 - [SalC1: How the Minecraft Title Screen Seed was Found](https://youtu.be/GaRurhiK-Lk)
 - [SalC1: Pack.PNG has been FOUND! - Here's how they did it.](https://youtu.be/ea6py9q46QU)
 - [Jonathan Blow Clips: Jonathan Blow on Problem Solving](https://youtu.be/6gakofGPZ6Q)
+- [SalC1: The Story of Eaglercraft](https://youtu.be/0qOCuLgX_lw)
