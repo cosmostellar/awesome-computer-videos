@@ -74,18 +74,18 @@
 ## Infrastructure
 - [Tom Delalande: The cloud is over-engineered and overpriced (no music)](https://youtu.be/jFrGhodqC08)
 
-### DevOps
+### Networking
+- [NetworkChuck: FREE CCNA 200-301 - Complete Course](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+
+
+### Cloud
 - [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
 - [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
 - [ThePrimeTime: Private EMPTY S3 Bucket COST ME $1300](https://youtu.be/OWggTcVgiNg)
 - [Caleb Curry: Deploy Docker to Kubernetes Cluster](https://youtube.com/playlist?list=PL_c9BZzLwBRJ86AcKK3dpvCWZbicjAG1E)
 
 
-### Networking
-- [NetworkChuck: FREE CCNA 200-301 - Complete Course](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
-
-
-### Etc
+### On-Premises
 - [Techquickie: What are Mainframes?](https://youtu.be/ximv-PwAKnc)
 
 
