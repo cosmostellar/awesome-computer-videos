@@ -1,5 +1,7 @@
 # awesome-computer-videos
 
+> Each video may have its own biases. Watch them at your own discretion.
+
 ## Programming Languages
 - [FireShip: God-Tier Developer Roadmap](https://youtu.be/pEfrdAtAmqk)
 - [Low Level Learning: C is 50 Years Old. Should You Learn Rust?](https://youtu.be/NtYHC1KNGoc)
