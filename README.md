@@ -67,8 +67,16 @@
 - [Tom Delalande: Authentication is a developer nightmare](https://youtu.be/IThLjsDUG0g)
 
 
-## Mobile Applications
+## Applications
+
+### Mobile Apps
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
+
+
+### Apple Frameworks
+
+#### visionOS
+- [Apple WWDC23: Meet UIKit for spatial computing](https://youtu.be/hoCLfOfbvKk)
 
 
 ## Infrastructure
