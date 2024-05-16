@@ -83,6 +83,7 @@
 - [Tom Delalande: The cloud is over-engineered and overpriced (no music)](https://youtu.be/jFrGhodqC08)
 
 ### Networking
+- [freeCodeCamp: How does the internet work?](http://youtu.be/zN8YNNHcaZc)
 - [NetworkChuck: FREE CCNA 200-301 - Complete Course](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
 
@@ -96,10 +97,6 @@
 
 ### On-Premises
 - [Techquickie: What are Mainframes?](https://youtu.be/ximv-PwAKnc)
-
-
-## Networking
-- [freeCodeCamp: How does the internet work?](http://youtu.be/zN8YNNHcaZc)
 
 
 ## Language Dev
