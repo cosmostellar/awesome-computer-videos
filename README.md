@@ -1,5 +1,4 @@
 # awesome-computer-videos
-
 > Each video may have its own biases. Watch them at your own discretion.
 
 ## Programming Languages
@@ -50,9 +49,7 @@
 - [Dreams of Code: Never write another loop again (maybe)](https://youtu.be/sGjAe6y299g)
 
 
-## Web
-
-### Frontend
+## Web Frontend Development
 - [Fireship: Build a Mindblowing 3D Portfolio Website (Three.js Beginner’s Tutorial)](http://youtu.be/Q7AOvWpIVHU)
 - [Eric Murphy: How Google's Chromium Took Over the Browser World](https://youtu.be/7u7ek8QyWPI)
 - [Eric Murphy: Why does every personal website look like this now?](https://youtu.be/_x6SCSz7g5I)
@@ -63,10 +60,7 @@
 - [Eric Murphy: Why I Stopped Using Sass](https://youtu.be/83F7PrfX5qw)
 - [Eric Murphy: Do We STILL Need to Use Vendor Prefixes in CSS?](https://youtu.be/ZbTz_XKDtuE)
 	- Reference (Website): [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-
-
-### Backend
-- [Tom Delalande: Authentication is a developer nightmare](https://youtu.be/IThLjsDUG0g)
+- [Juxtopposed: When Animators Become Web Designers](https://youtu.be/_8Zs_cVJAx4)
 
 
 ## Applications
@@ -79,6 +73,10 @@
 
 #### visionOS
 - [Apple WWDC23: Meet UIKit for spatial computing](https://youtu.be/hoCLfOfbvKk)
+
+
+## Backend Development
+- [Tom Delalande: Authentication is a developer nightmare](https://youtu.be/IThLjsDUG0g)
 
 
 ## Infrastructure
@@ -155,8 +153,10 @@
 - [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
 - [Theo: I Failed An AI Job Interview (I can't believe this is real...)](https://youtu.be/FllnUBvhoUc)
 - [Alex Ziskind: Stack Overflow Survey 2023](https://youtu.be/403U_EQ6Jiw)
+	- Reference (Website): [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
 - [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
 - [Jeff Geerling: Corporate Open Source is Dead](https://youtu.be/hNcBk6cwim8)
+	- Video Upload Date: Apr 26, 2024
 
 
 ## Game Development
@@ -171,7 +171,6 @@
 ## User Interface/Experience
 - [Apple WWDC2018: Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/)
 - [Juxtopposed: I Redesigned the ENTIRE Steam UI from Scratch](https://youtu.be/cDY2p1CTkPo)
-- [Juxtopposed: When Animators Become Web Designers](https://youtu.be/_8Zs_cVJAx4)
 - [Juxtopposed: I Redesigned Wikipedia JUST to MAKE IT MONEY](https://youtu.be/Bzj7u4Q5GG0)
 	- Reference (Video): [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
 - [jerry woo hu: "Apple Design Part 1: Skeuomorphism"](https://youtu.be/jG2iaU-JVhI)
