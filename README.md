@@ -57,12 +57,12 @@
 - [Eric Murphy: How Google's Chromium Took Over the Browser World](https://youtu.be/7u7ek8QyWPI)
 - [Eric Murphy: Why does every personal website look like this now?](https://youtu.be/_x6SCSz7g5I)
 - [Theo: Pretty much every website uses the wrong font size…](https://youtu.be/rg3zgQ3xBRc)
-	- Reference: [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
-	- Reference: [Complete Reference of All the Styles Applied by Tailwind Preflight](https://unpkg.com/tailwindcss@3.4.3/src/css/preflight.css)
+	- Reference (Article): [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
+	- Reference (CSS Snippet): [Complete Reference of All the Styles Applied by Tailwind Preflight](https://unpkg.com/tailwindcss@3.4.3/src/css/preflight.css)
 - [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk)
 - [Eric Murphy: Why I Stopped Using Sass](https://youtu.be/83F7PrfX5qw)
 - [Eric Murphy: Do We STILL Need to Use Vendor Prefixes in CSS?](https://youtu.be/ZbTz_XKDtuE)
-	- Reference: [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+	- Reference (Website): [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 
 
 ### Backend
@@ -92,6 +92,7 @@
 - [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
 - [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
 - [ThePrimeTime: Private EMPTY S3 Bucket COST ME $1300](https://youtu.be/OWggTcVgiNg)
+	- Reference (Article): [ITPro: AWS patches S3 storage flaw that racked up huge bill for customer](https://www.itpro.com/cloud/cloud-storage/aws-patches-s3-storage-flaw-that-racked-up-huge-bills-for-customers)
 - [Caleb Curry: Kubernetes and Docker](https://youtube.com/playlist?list=PL_c9BZzLwBRJ86AcKK3dpvCWZbicjAG1E)
 
 
@@ -172,7 +173,7 @@
 - [Juxtopposed: I Redesigned the ENTIRE Steam UI from Scratch](https://youtu.be/cDY2p1CTkPo)
 - [Juxtopposed: When Animators Become Web Designers](https://youtu.be/_8Zs_cVJAx4)
 - [Juxtopposed: I Redesigned Wikipedia JUST to MAKE IT MONEY](https://youtu.be/Bzj7u4Q5GG0)
-	- Reference: [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
+	- Reference (Video): [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
 - [jerry woo hu: "Apple Design Part 1: Skeuomorphism"](https://youtu.be/jG2iaU-JVhI)
 - [jerry woo hu: "Apple Design Part 2: Beyond Flat"](https://youtu.be/8XjuE-2k1z8)
 
