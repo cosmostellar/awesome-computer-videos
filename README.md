@@ -79,7 +79,7 @@
 - [Tom Delalande: Authentication is a developer nightmare](https://youtu.be/IThLjsDUG0g)
 
 
-## Infrastructure
+## Infrastructures
 - [Tom Delalande: The cloud is over-engineered and overpriced (no music)](https://youtu.be/jFrGhodqC08)
 
 ### Networking
@@ -113,7 +113,7 @@
 - [Low Level Learning: secret backdoor found in open source software (xz situation breakdown)](https://youtu.be/jqjtNDtbDNI)
 
 
-## Operating System
+## Operating Systems
 
 ### UNIX
 - [ArrynDoesTech: How to write a unix shell in rust](http://youtu.be/EZnp9SR66Zw)
