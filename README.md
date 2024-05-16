@@ -156,6 +156,7 @@
 - [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
 - [Jeff Geerling: Corporate Open Source is Dead](https://youtu.be/hNcBk6cwim8)
 	- Video Upload Date: Apr 26, 2024
+- [ThePrimeTime: Have Strong Opinions](https://youtu.be/nW567LI0y08)
 
 
 ## Game Development
