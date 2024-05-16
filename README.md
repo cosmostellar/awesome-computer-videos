@@ -91,7 +91,7 @@
 - [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
 - [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
 - [ThePrimeTime: Private EMPTY S3 Bucket COST ME $1300](https://youtu.be/OWggTcVgiNg)
-	- Reference (Article): [ITPro: AWS patches S3 storage flaw that racked up huge bill for customer](https://www.itpro.com/cloud/cloud-storage/aws-patches-s3-storage-flaw-that-racked-up-huge-bills-for-customers)
+	- Reference (Article): [AWS patches S3 storage flaw that racked up huge bill for customer](https://www.itpro.com/cloud/cloud-storage/aws-patches-s3-storage-flaw-that-racked-up-huge-bills-for-customers)
 - [Caleb Curry: Kubernetes and Docker](https://youtube.com/playlist?list=PL_c9BZzLwBRJ86AcKK3dpvCWZbicjAG1E)
 
 
@@ -128,6 +128,7 @@
 
 ### MS-DOS
 - [Dave's Garage: MS-DOS has been Open-Sourced! We Build and Run it!](https://youtu.be/BR6F0EdyulA)
+	- Reference (Repository): [https://github.com/microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)
 
 
 ## Computer Science
@@ -173,7 +174,7 @@
 - [Apple WWDC2018: Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803/)
 - [Juxtopposed: I Redesigned the ENTIRE Steam UI from Scratch](https://youtu.be/cDY2p1CTkPo)
 - [Juxtopposed: I Redesigned Wikipedia JUST to MAKE IT MONEY](https://youtu.be/Bzj7u4Q5GG0)
-	- Reference (Video): [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
+	- Reference (YouTube): [Margins: Should You Donate to Wikipedia?](https://youtu.be/aXr4VqX8F48)
 - [jerry woo hu: "Apple Design Part 1: Skeuomorphism"](https://youtu.be/jG2iaU-JVhI)
 - [jerry woo hu: "Apple Design Part 2: Beyond Flat"](https://youtu.be/8XjuE-2k1z8)
 
