@@ -89,9 +89,12 @@
 
 ### Cloud
 - [NeetCodeIO: The only Cloud services you actually need to know](https://youtu.be/gcfB8iIPtbY)
-- [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
 - [ThePrimeTime: Private EMPTY S3 Bucket COST ME $1300](https://youtu.be/OWggTcVgiNg)
 	- Reference (Article): [AWS patches S3 storage flaw that racked up huge bill for customer](https://www.itpro.com/cloud/cloud-storage/aws-patches-s3-storage-flaw-that-racked-up-huge-bills-for-customers)
+
+
+### Containerization
+- [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
 - [Caleb Curry: Kubernetes and Docker](https://youtube.com/playlist?list=PL_c9BZzLwBRJ86AcKK3dpvCWZbicjAG1E)
 
 
