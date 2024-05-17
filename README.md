@@ -114,6 +114,7 @@
 - [NetworkChuck: SQL Injections are scary!!](https://youtu.be/2OPVViV-GQk)
 - [Nathan Baggs: Unfixable Apple Exploit - How It Really Works](https://youtu.be/wpDXpmOxR1Y)
 - [Low Level Learning: secret backdoor found in open source software (xz situation breakdown)](https://youtu.be/jqjtNDtbDNI)
+- [Google: HACKING GOOGLE Series](https://youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
 
 
 ## Operating Systems
