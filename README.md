@@ -72,7 +72,8 @@
 ### Apple Frameworks
 
 #### visionOS
-- [Apple WWDC23: Meet UIKit for spatial computing](https://youtu.be/hoCLfOfbvKk)
+- [WWDC23: Meet UIKit for spatial computing](https://youtu.be/hoCLfOfbvKk)
+- [WWDC23: Detect animal poses in Vision](https://youtu.be/wz6utGmG3os)
 
 
 ## Backend Development
