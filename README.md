@@ -184,6 +184,12 @@
 - [jerry woo hu: "Apple Design Part 2: Beyond Flat"](https://youtu.be/8XjuE-2k1z8)
 
 
+## Version Control System
+
+### Git
+- [Philomatics: Never* use git pull](https://youtu.be/xN1-2p06Urc)
+
+
 ## Etc
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
 - [SalC1: The Story of MinecraftForFree.com](https://youtu.be/BKNx7chzuJ4)
