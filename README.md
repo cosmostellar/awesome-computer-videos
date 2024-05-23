@@ -144,6 +144,7 @@
 ### Data Structures and Algorithms
 - [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 - [Tren Black: Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU)
+- [BK Binary: Storing Files in the Walmart Chip Aisle](https://youtu.be/qFZQPvdL5fQ)
 
 #### Back To Back SWE
 - [Back To Back SWE: Asymptotic Notations 101: Big O, Big Omega, & Theta (Asymptotic Analysis Bootcamp)](https://youtu.be/0oDAlMwTrLo)
