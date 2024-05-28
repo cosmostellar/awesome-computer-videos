@@ -101,6 +101,7 @@
 
 ### On-Premises
 - [Techquickie: What are Mainframes?](https://youtu.be/ximv-PwAKnc)
+- [Google Cloud Tech: Google Data Center 360° Tour](https://youtu.be/zDAYZU4A3w0)
 
 
 ## Language Dev
