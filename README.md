@@ -67,6 +67,7 @@
 
 ### Mobile Apps
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
+	- [typecraft: What is happening with Flutter](https://youtu.be/m0GwHNBxvHw)
 
 
 ### Apple Frameworks
