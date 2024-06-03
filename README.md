@@ -195,8 +195,7 @@
 - [Jonathan Blow Clips: Jonathan Blow on Problem Solving](https://youtu.be/6gakofGPZ6Q)
 - [ThePrimeTime: Have Strong Opinions](https://youtu.be/nW567LI0y08)
 
-
-## Minecraft
+### Minecraft
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
 - [SalC1: The Story of MinecraftForFree.com](https://youtu.be/BKNx7chzuJ4)
 - [SalC1: How the Minecraft Title Screen Seed was Found](https://youtu.be/GaRurhiK-Lk)
