@@ -9,8 +9,8 @@
 - [Low Level Learning: why rust libraries may never exist.](https://youtu.be/769VqNup21Q)
 
 #### RustConf 2023
-- [RustConf 2023: How Powerful is Const](https://youtu.be/zXCr1BH5Y-4)
 - [RustConf 2023: The Art and Science of Teaching Rust](https://youtu.be/x5EbGrgmXKw)
+- [RustConf 2023: How Powerful is Const](https://youtu.be/zXCr1BH5Y-4)
 - [RustConf 2023: Using Rust and Battlesnake to never stop learning](https://youtu.be/-I1BfSpoWM0)
 
 
