@@ -67,7 +67,7 @@
 
 ### Mobile Apps
 - [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
-	- [typecraft: What is happening with Flutter](https://youtu.be/m0GwHNBxvHw)
+- [typecraft: What is happening with Flutter](https://youtu.be/m0GwHNBxvHw)
 
 
 ### Apple Frameworks
@@ -110,7 +110,6 @@
 - [Low Level Learning: do you know how "return" works under the hood? (are you SURE?)](https://youtu.be/e46wHUjNDjE)
 - [Nathan Baggs: BestJS 1.0 is here](https://youtu.be/-GwT08wwnbw)
 	- A semi-satirical look at what it takes to make a semi-decent js runtime.
-- [Tsoding Daily: What is a Lexer (No BS explanation)](https://youtu.be/BI3K-ME3L74)
 
 
 ## Cybersecurity
@@ -151,7 +150,6 @@
 #### Back To Back SWE
 - [Back To Back SWE: Asymptotic Notations 101: Big O, Big Omega, & Theta (Asymptotic Analysis Bootcamp)](https://youtu.be/0oDAlMwTrLo)
 - [Back To Back SWE: Add Two Numbers Without The "+" Sign (Bit Shifting Basics)](https://youtu.be/qq64FrA2UXQ)
-- [Back To Back SWE: Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://youtu.be/S6IfqDXWa10)
 
 
 ## Tech in General
@@ -167,7 +165,6 @@
 - [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
 - [Jeff Geerling: Corporate Open Source is Dead](https://youtu.be/hNcBk6cwim8)
 	- Video Upload Date: Apr 26, 2024
-- [ThePrimeTime: Have Strong Opinions](https://youtu.be/nW567LI0y08)
 
 
 ## Game Development
@@ -195,9 +192,13 @@
 
 
 ## Etc
+- [Jonathan Blow Clips: Jonathan Blow on Problem Solving](https://youtu.be/6gakofGPZ6Q)
+- [ThePrimeTime: Have Strong Opinions](https://youtu.be/nW567LI0y08)
+
+
+## Minecraft
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
 - [SalC1: The Story of MinecraftForFree.com](https://youtu.be/BKNx7chzuJ4)
 - [SalC1: How the Minecraft Title Screen Seed was Found](https://youtu.be/GaRurhiK-Lk)
 - [SalC1: Pack.PNG has been FOUND! - Here's how they did it.](https://youtu.be/ea6py9q46QU)
-- [Jonathan Blow Clips: Jonathan Blow on Problem Solving](https://youtu.be/6gakofGPZ6Q)
 - [SalC1: The Story of Eaglercraft](https://youtu.be/0qOCuLgX_lw)
