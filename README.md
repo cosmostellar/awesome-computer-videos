@@ -161,9 +161,6 @@
 - [Quick Tutorials: Is 8GB of RAM Enough? MacBook Air Torture Test](https://youtu.be/nK--aq3cTxo)
 - [Alex Ziskind: Stack Overflow Survey 2023](https://youtu.be/403U_EQ6Jiw)
 	- Reference (Website): [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/)
-- [Theo: How One Command Broke NPM](https://youtu.be/IzqtWTMFv9Y)
-- [Jeff Geerling: Corporate Open Source is Dead](https://youtu.be/hNcBk6cwim8)
-	- Video Upload Date: Apr 26, 2024
 
 
 ## Game Development
@@ -183,12 +180,6 @@
 - [jerry woo hu: "Apple Design Part 1: Skeuomorphism"](https://youtu.be/jG2iaU-JVhI)
 - [jerry woo hu: "Apple Design Part 2: Beyond Flat"](https://youtu.be/8XjuE-2k1z8)
 - [twin fettuccine: I Tried to Become Literate with Duolingo ABC!](https://youtu.be/PxKjWK1OM5Q)
-
-
-## Version Control System
-
-### Git
-- [Philomatics: Never* use git pull](https://youtu.be/xN1-2p06Urc)
 
 
 ## Etc
