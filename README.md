@@ -120,6 +120,7 @@
 
 
 ## Operating Systems
+- [LaurieWired: How a Clever 1960s Memory Trick Changed Computing](https://youtu.be/vc79sJ9VOqk)
 
 ### UNIX
 - [ArrynDoesTech: How to write a unix shell in rust](http://youtu.be/EZnp9SR66Zw)
