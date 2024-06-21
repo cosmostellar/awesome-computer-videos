@@ -118,6 +118,7 @@
 - [Low Level Learning: secret backdoor found in open source software (xz situation breakdown)](https://youtu.be/jqjtNDtbDNI)
 - Playlist: [Google: HACKING GOOGLE Series](https://youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
 - [GiannhsNt: How Hackers Crack Software](https://youtu.be/sIDZlA6Nz5w)
+- [LaurieWired: Deciphering Obfuscated JavaScript Malware](https://youtu.be/2iBqqPmUYfE)
 
 
 ## Operating Systems
