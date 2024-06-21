@@ -35,7 +35,7 @@
 
 
 ### C++
-- [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
+- Playlist: [Caleb Curry: C++ Intermediate Tutorial Series](https://www.youtube.com/watch?v=OCL7mSFCIx0&list=PL_c9BZzLwBRJkVDaJbLHrrjNH_phcbCy7)
 
 
 ### Zig
@@ -86,12 +86,12 @@
 
 ### Networking
 - [freeCodeCamp: How does the internet work?](http://youtu.be/zN8YNNHcaZc)
-- [NetworkChuck: FREE CCNA 200-301 - Complete Course](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+- Playlist: [NetworkChuck: FREE CCNA 200-301 - Complete Course](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
 
 ### Containerization
 - [TechWorld with Nana: Docker Crash Course for Absolute Beginners [NEW]](https://youtu.be/pg19Z8LL06w)
-- [Caleb Curry: Kubernetes and Docker](https://youtube.com/playlist?list=PL_c9BZzLwBRJ86AcKK3dpvCWZbicjAG1E)
+- Playlist: [Caleb Curry: Kubernetes and Docker](https://youtube.com/playlist?list=PL_c9BZzLwBRJ86AcKK3dpvCWZbicjAG1E)
 
 
 ### Cloud
@@ -116,7 +116,7 @@
 - [NetworkChuck: SQL Injections are scary!!](https://youtu.be/2OPVViV-GQk)
 - [Nathan Baggs: Unfixable Apple Exploit - How It Really Works](https://youtu.be/wpDXpmOxR1Y)
 - [Low Level Learning: secret backdoor found in open source software (xz situation breakdown)](https://youtu.be/jqjtNDtbDNI)
-- [Google: HACKING GOOGLE Series](https://youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
+- Playlist: [Google: HACKING GOOGLE Series](https://youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
 - [GiannhsNt: How Hackers Crack Software](https://youtu.be/sIDZlA6Nz5w)
 
 
@@ -144,7 +144,7 @@
 - [Max's Tech: Read and Write in Hexadecimal, The Easy Way!](https://youtu.be/bt4zavZCrLg)
 
 ### Data Structures and Algorithms
-- [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- Playlist: [OpenCourseWare: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 - [Tren Black: Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU)
 - [BK Binary: Storing Files in the Walmart Chip Aisle](https://youtu.be/qFZQPvdL5fQ)
 
