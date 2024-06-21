@@ -55,7 +55,6 @@
 - [Theo: Pretty much every website uses the wrong font size…](https://youtu.be/rg3zgQ3xBRc)
 	- Reference (Article): [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
 	- Reference (CSS Snippet): [Complete Reference of All the Styles Applied by Tailwind Preflight](https://unpkg.com/tailwindcss@3.4.3/src/css/preflight.css)
-- [Theo: How Discord Broke YouTube](https://youtu.be/J54eUQ0xuhk)
 - [Eric Murphy: Why I Stopped Using Sass](https://youtu.be/83F7PrfX5qw)
 - [Eric Murphy: Do We STILL Need to Use Vendor Prefixes in CSS?](https://youtu.be/ZbTz_XKDtuE)
 	- Reference (Website): [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
@@ -65,8 +64,10 @@
 ## Applications
 
 ### Mobile Apps
-- [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
-- [typecraft: What is happening with Flutter](https://youtu.be/m0GwHNBxvHw)
+
+#### Flutter
+- Pessimistic: [Theo: My Final Flutter Video](https://youtu.be/tTGWfXPKxf4)
+- Optimistic: [typecraft: What is happening with Flutter](https://youtu.be/m0GwHNBxvHw)
 
 
 ### Apple Frameworks
