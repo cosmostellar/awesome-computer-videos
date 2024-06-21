@@ -42,6 +42,12 @@
 - [Low Level Learning: i changed my mind about this language](https://youtu.be/pnnx1bkFXng)
 
 
+### Assembly
+
+#### ARM
+- [LaurieWired: "Mastering Memory: Allocation Techniques in C, C++, and ARM Assembly](https://youtu.be/HlUBE70h2C0)
+
+
 ## Code Style
 - [CodeAesthetic: Don't Write Comments](https://youtu.be/Bf7vDBBOBUA)
 - [Eric Murphy: Why I Stopped Using Prettier](https://youtu.be/DQUkYHQ4aUA)
