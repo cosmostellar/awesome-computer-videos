@@ -32,6 +32,7 @@
 
 ### C
 - [Mults: Explaining Pointers Until I Go Insane](https://youtu.be/qclZUQYZTzg)
+- [LaurieWired: A Competition for Unreadable Code?](https://youtu.be/i55ptVQw1Kk)
 
 
 ### C++
