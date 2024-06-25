@@ -195,6 +195,7 @@
 ## Etc
 - [Jonathan Blow Clips: Jonathan Blow on Problem Solving](https://youtu.be/6gakofGPZ6Q)
 - [ThePrimeTime: Have Strong Opinions](https://youtu.be/nW567LI0y08)
+- [Daniel Rivera: How To Install Ghidra on Mac with Apple Silicon (M2, M1, M1 Pro, M1 Max, M1 Ultra)](https://youtu.be/LJz6MdzEmjM)
 
 ### Minecraft
 - [SalC1: The Confusing History of Minecraft.com](https://youtu.be/Ardk5agFomY)
